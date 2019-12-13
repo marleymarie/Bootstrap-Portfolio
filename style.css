@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+    font-size: 18px;
+    line-height: 34px;
+    color: #777777;
+    background: url("../images/concrete_seamless.png");
+  }
+
+  .navbar-brand {
+    background-color: #4AAAA5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+  }
+
+  h1 {
+    color: #4AAAA5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .button {
+      color: #4AAAA5;
+  }
